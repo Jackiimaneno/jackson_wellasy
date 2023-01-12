@@ -12,4 +12,4 @@ on doing these exercises, i only use all the documentation and resources that ne
 If you have any suggestion to improve my exercise, an idea for a new exercise, or notice an issue with an exercise, please feel free to face me and open an issue after thoroughly reading my Exercise project.
 
 ## Much appreciation to:
-The Odin Project, houseplan.net (America's Best House Plan) hence their education,manual training guides and resources push me where i am now. 
+The Odin Project, house plan.net (America's Best House Plan) hence their education,manual training guides and resources push me where i am right now. 
